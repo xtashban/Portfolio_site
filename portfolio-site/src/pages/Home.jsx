@@ -3,7 +3,7 @@ function Home(){
         <main>
   <section className="hero">
     <div className="hero-content">
-      <p className="eyebrow">Computing & IT Student</p>
+      <p className="eyebrow">Computing & Information Technologies Student</p>
       <h1>Building <span>systems</span>, software, and networks.</h1>
       <p>
         I create technical projects across web development, infrastructure,
